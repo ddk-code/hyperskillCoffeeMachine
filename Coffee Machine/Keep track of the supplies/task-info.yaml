@@ -282,6 +282,31 @@ files:
         }
     }
   learner_created: false
+- name: src/machine/Coffee.java
+  visible: true
+  text: |
+    package machine;
+
+    public class Coffee {
+        int type;
+        int water;
+        int milk;
+        int beans;
+        int money;
+        final int disposableCup = 1;
+
+        public Coffee(int type, int water, int milk, int coffeeBeans, int money) {
+            this.type = type;
+            this.water = water;
+            this.milk = milk;
+            this.beans = coffeeBeans;
+            this.money = money;
+        }
+    }
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/33/stages/179/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 16 Jan 2021 14:13:58 UTC
 record: -1
