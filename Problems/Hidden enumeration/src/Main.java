@@ -1,12 +1,15 @@
 public class Main {
 
     public static void main(String[] args) {
-    // write your program here
+        int i = 0;
+        for (Secret s : Secret.values()) {
+            if (s.toString().startsWith("STAR")) {
+                ++i;
+            }
+        }
+        System.out.println(i);
     }
 }
-
-/* sample enum for inspiration
-   enum Secret {
-    STAR, CRASH, START, // ...
-}
-*/
+//enum Secret {
+//    STAR, CRASH, START, // ...
+//}
