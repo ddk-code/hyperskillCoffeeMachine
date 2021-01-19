@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-16T14:13:58" hostname="ddk-GL703VD" time="0.243">
+<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-19T13:09:15" hostname="ddk-GL703VD" time="0.281">
   <properties/>
-  <testcase name="start" classname="CoffeeMachineTest" time="0.243"/>
+  <testcase name="start" classname="CoffeeMachineTest" time="0.281"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 400 of water
 540 of milk
@@ -49,6 +50,7 @@ I gave you $564
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 700 of water
 390 of milk
@@ -63,6 +65,7 @@ Start test 2?[0m
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 400 of water
 540 of milk
@@ -83,6 +86,7 @@ Write how many disposable cups of coffee do you want to add:
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 3400 of water
 3540 of milk
@@ -97,6 +101,7 @@ Start test 3?[0m
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 400 of water
 540 of milk
@@ -112,6 +117,7 @@ I have enough resources, making you a coffee!
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 150 of water
 540 of milk
@@ -126,6 +132,7 @@ Start test 4?[0m
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 400 of water
 540 of milk
@@ -141,6 +148,7 @@ I have enough resources, making you a coffee!
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 50 of water
 465 of milk
@@ -155,6 +163,7 @@ Start test 5?[0m
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 400 of water
 540 of milk
@@ -170,6 +179,7 @@ I have enough resources, making you a coffee!
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 200 of water
 440 of milk
@@ -184,6 +194,7 @@ Start test 6?[0m
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 400 of water
 540 of milk
@@ -197,6 +208,7 @@ I gave you $550
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 400 of water
 540 of milk
@@ -211,6 +223,7 @@ Start test 7?[0m
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 400 of water
 540 of milk
@@ -225,6 +238,7 @@ What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main
 
 Write action (buy, fill, take, remaining, exit): 
 > remaining
+
 The coffee machine has:
 400 of water
 540 of milk

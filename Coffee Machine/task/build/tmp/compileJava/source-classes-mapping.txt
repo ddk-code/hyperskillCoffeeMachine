@@ -1,4 +1,8 @@
-machine/Coffee.java
- machine.Coffee
+machine/CoffeeTypes.java
+ machine.CoffeeTypes
+machine/InputLine.java
+ machine.InputLine
 machine/CoffeeMachine.java
  machine.CoffeeMachine
+ machine.CoffeeMachine$1
+ machine.MachineState
